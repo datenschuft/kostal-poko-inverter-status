@@ -9,6 +9,13 @@ $pikoip = "192.168.1.21";
 // IDs (Reverse Engineering)
 $id_operation_status = 16780032;
 
+/*
+0=Off
+2=Startup
+3=Feed in (MPP)
+6=DC voltage low
+*/
+
 $id_dctot_w = 33556736;
 $id_dc1_v = 33555202;
 $id_dc1_a = 33555201;
